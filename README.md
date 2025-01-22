@@ -1,4 +1,4 @@
-# reverse_engineering_cheat_sheet
+# Reverse Engineering Cheat Sheet
 This is a collection of reverse engineering notes, code snippets, and resources.
 
 ## ELF (Executable and Linkable Format) Section List
