@@ -33,3 +33,6 @@ This is a collection of reverse engineering notes, code snippets, and resources.
 - X.S.BB` - Mac Disk image file
 - %PDF - PDF file
 - MSCF - CAB file
+
+## Resources
+- Process Creation Flags (from Microsoft) - https://learn.microsoft.com/en-us/windows/win32/procthread/process-creation-flags
