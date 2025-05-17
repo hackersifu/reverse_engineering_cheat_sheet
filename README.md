@@ -57,6 +57,11 @@ Float and double: These data types are designed to store floating-point numbers 
 - Logical Shift left (<<): Moves the bits to the left, filling the rightmost bits with 0. This is equivalent to multiplying by 2.
 - Logical Shift right (>>): Moves the bits to the right, filling the leftmost bits with 0. This is equivalent to dividing by 2.
 
+## Packers
+Commonly used executable packers are UPX, MPRESS, and ExeStealth. Popular features include the ability to encrypt files to avoid detection, file compression, decreased start time, and built-in anti-debugging mechanisms. Packers allow malware authors to add an additional layer for analysts to crawl through, as analysts must undo the work performed by the packer. This requires understanding on how a packer operates, specifically in the context of how the malware was packed.
+#### Tools to check for Packers
+- PeiD
+
 
  
 
